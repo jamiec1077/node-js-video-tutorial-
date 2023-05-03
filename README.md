@@ -37,3 +37,5 @@ This project is licensed under the Apache license.
 ## Questions
 
 If you have any questions about the repo, open an issue or contact me directly at jamie.charlemagne1992@gmail.com. You can find more of my work at https://github.com/jamiec1077.
+
+link to video:   https://drive.google.com/file/d/1sZOMyUZ5O0GOPPsEHoIRY6qhsttUINVg/view
